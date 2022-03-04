@@ -51,7 +51,7 @@ body{
     width: 100vw;
     height: 70vh;
     display: flex;
-    background-image: url(/assets/Black-water-sea.png);
+    background-image: url(assets/Black-water-sea.png);
     background-size: 100vw;
     color: white;
     background-repeat: no-repeat;
